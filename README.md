@@ -1,5 +1,5 @@
 <h1 align="center">
-  💻<br>Calculadora Demo
+  🖩<br>Calculadora Demo
 </h1>
 
 <h4 align="center">
